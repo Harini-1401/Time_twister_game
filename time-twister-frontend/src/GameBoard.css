@@ -1,0 +1,23 @@
+.game-board {
+  display: inline-block;
+  margin: 20px auto;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.player {
+  background-color: lightblue;
+  font-size: 24px;
+  border: 2px solid red;
+}

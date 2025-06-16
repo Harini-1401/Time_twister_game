@@ -1,0 +1,5 @@
+com\timetwister\service\GameService.class
+com\timetwister\controller\GameController$DirectionRequest.class
+com\timetwister\controller\GameController.class
+com\timetwister\model\GameState.class
+com\timetwister\TimeTwisterApplication.class
